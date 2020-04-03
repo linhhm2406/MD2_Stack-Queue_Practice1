@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9632f121-9d5a-46cb-9f86-1973783075b5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a1gufdzekznduNxjSeqt4ADzjI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="LinkedListQueueCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedListQueueCheck" />
+      <module name="1.QueueImplementUseLinkedList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LinkedListQueueCheck" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Project_Structure" timestamp="1585908759208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1585908759208" />
+    <state x="958" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1585909008105">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="958" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585909008105" />
+    <state width="723" height="210" key="GridCell.Tab.0.bottom" timestamp="1585909544181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585909544181" />
+    <state width="723" height="210" key="GridCell.Tab.0.center" timestamp="1585909544181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585909544181" />
+    <state width="723" height="210" key="GridCell.Tab.0.left" timestamp="1585909544181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585909544181" />
+    <state width="723" height="210" key="GridCell.Tab.0.right" timestamp="1585909544181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585909544181" />
+    <state x="175" y="55" key="SettingsEditor" timestamp="1585908851073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="175" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585908851073" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1585908751055">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585908751055" />
+  </component>
+</project>
